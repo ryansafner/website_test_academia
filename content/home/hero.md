@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Academia"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "user-2.jpg"
+hero_media = "summer_2019_square.JPG"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -42,6 +42,12 @@ hero_media = "user-2.jpg"
   label = "Contact me"
 
 +++
-## My name is **Michael Vahn** and I'm a **Professor** specializing in **Artificial Intelligence**
+## Hero Widget, Second Heading
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.
+I am Assistant Professor of Economics at [Hood College](https://www.hood.edu/academics/Economics-and-Management/index.html). Previously I taught at [Wake Forest University](http://college.wfu.edu/economics/).
+
+I have a Ph.D and M.A. in Economics from [George Mason University](http://economics.gmu.edu/), and a B.A. in Economics from the [University of Connecticut](http://economics.uconn.edu/). Go Huskies!
+
+My research broadly explores the political economy of innovation, technological growth, and intellectual property using the tools of [new institutional economics](https://en.wikipedia.org/wiki/New_institutional_economics), [public choice](https://en.wikipedia.org/wiki/Public_choice), and [market process economics](http://www.econlib.org/library/Enc/AustrianSchoolofEconomics.html).
+
+I am a passionate user of [*R*](https://www.r-project.org/) for data analysis, and [*R Markdown*](https://rmarkdown.rstudio.com/) and [GitHub](https://github.com) for writing reproducible research, version control, and managing my workflow. I occasionally blog here about using these tools in my research and teaching.

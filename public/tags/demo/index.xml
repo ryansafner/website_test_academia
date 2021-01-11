@@ -1,41 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Demo on Academia</title>
-    <link>https://examplesite.org/tags/demo/</link>
-    <description>Recent content in Demo on Academia</description>
+    <title>Demo on Ryan Safner</title>
+    <link>https://nostalgic-mcnulty-931307.netlify.app/tags/demo/</link>
+    <description>Recent content in Demo on Ryan Safner</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://examplesite.org/tags/demo/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://nostalgic-mcnulty-931307.netlify.app/tags/demo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Artificial Intelligence</title>
-      <link>https://examplesite.org/project/artificial-intelligence/</link>
+      <link>https://nostalgic-mcnulty-931307.netlify.app/project/artificial-intelligence/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/project/artificial-intelligence/</guid>
+      <guid>https://nostalgic-mcnulty-931307.netlify.app/project/artificial-intelligence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Learning</title>
-      <link>https://examplesite.org/project/deep-learning/</link>
+      <link>https://nostalgic-mcnulty-931307.netlify.app/project/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/project/deep-learning/</guid>
+      <guid>https://nostalgic-mcnulty-931307.netlify.app/project/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>External Project</title>
-      <link>https://examplesite.org/project/external-project/</link>
+      <link>https://nostalgic-mcnulty-931307.netlify.app/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/project/external-project/</guid>
+      <guid>https://nostalgic-mcnulty-931307.netlify.app/project/external-project/</guid>
       <description></description>
     </item>
     
