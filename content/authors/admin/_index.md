@@ -5,7 +5,7 @@ avatar_image: summer_2019.JPG
 bio: My research interests include distributed robotics, mobile computing and programmable
   matter.
 btn:
-- label: Download Resume
+- label: View CV
   url: https://sourcethemes.com/academic/docs/install/
 display_education: true
 education:
