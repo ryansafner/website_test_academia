@@ -2,8 +2,7 @@
 authors:
 - admin
 avatar_image: summer_2019.JPG
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio:
 btn:
 - label: View CV
   url: https://sourcethemes.com/academic/docs/install/
@@ -48,8 +47,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-# Index 
 
 I am Assistant Professor of Economics at [Hood College](https://www.hood.edu/academics/Economics-and-Management/index.html). Previously I taught at [Wake Forest University](http://college.wfu.edu/economics/).
 
