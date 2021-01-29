@@ -14,7 +14,7 @@ type: docs
 weight: 1
 ---
 
-# Overview
+## Overview
 
 [[Spring 2017 Syllabus](https://www.dropbox.com/s/26dxgos34p5cfhs/ECON_324_Syllabus_Safner.pdf?dl=0)]
 
@@ -30,7 +30,7 @@ I have three goals for everyone taking this course: (1) to understand and evalua
 
 To these ends, in addition to lectures about statistical methods, you will be working on problem sets that use theory, as well as using Microsoft Excel to complete problem sets using data, and write a brief empirical paper using data. By the end, you should feel comfortable working with data and understanding the empirical claims of others. The best training is for you to learn by doing.
 
-# Materials
+## Materials
 
 | Lesson | Slides | Excel Templates|
 |---|---|---|

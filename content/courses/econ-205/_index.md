@@ -14,7 +14,7 @@ type: docs
 weight: 1
 ---
 
-# Overview
+## Overview
 
 [[Fall 2018 Syllabus](https://www.dropbox.com/s/58bwicaeqy26tci/ECON_205_F2018_Syllabus_Safner.pdf?dl=0)]
 
@@ -31,7 +31,7 @@ This course will have been successful if you are able to apply the economic way 
 - Obtain basic understanding of economic statistics, as well as know where to collect them and how to effectively present them graphically and numerically. 
 - Understand current policy debates and formulate informed opinions	
 
-# Materials
+## Materials
 
 | Lesson Slides | Handouts | Practice Problems | Homework |
 |---|---|----|---|
