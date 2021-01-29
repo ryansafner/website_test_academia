@@ -4,11 +4,11 @@ abstract: The most robust framework for understanding the evolution and conseque
 authors:
 - admin
 date: "2016-06-01T00:00:00Z"
-doi: "https://doi.org/https://doi.org/10.1007/s11138-014-0293-5"
+doi: "https://doi.org/10.1007/s11138-014-0293-5"
 url_pdf: "http://papers.ssrn.com/abstract=2396874"
 featured: true
 projects: []
-publication: '*Journal of Institutional Economics, 12*(4)'
+publication: '*Review of Austrian Economics*, 29'
 publication_short: ""
 publication_types:
 - "2"

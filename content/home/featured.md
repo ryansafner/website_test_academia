@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 draft = true # false it if you want a featured section
 
-title = "Featured Publications"
+title = "Publications"
 subtitle = ""
 
 [content]

@@ -8,7 +8,7 @@ doi: "https://doi.org/10.1017/S1744137416000096"
 url_pdf: "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2564230"
 featured: true
 projects: []
-publication: '*Journal of Institutional Economics, 12*(4)'
+publication: '*Journal of Institutional Economics*, 12(4)'
 publication_short: ""
 publication_types:
 - "2"
