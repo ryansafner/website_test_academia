@@ -5,7 +5,7 @@ authors:
 - admin
 date: "2015-09-01T00:00:00Z"
 doi: "https://doi.org/10.1017/S1744137416000096"
-url_pdf = "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2564230"
+url_pdf: "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2564230"
 featured: true
 projects: []
 publication: '*Journal of Institutional Economics, 12*(4)'
