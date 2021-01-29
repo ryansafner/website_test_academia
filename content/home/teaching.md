@@ -13,7 +13,7 @@ subtitle = ""
 
 |     |
 |:----|
-| ![](https://nostalgic-mcnulty-931307.netlify.app/static/img/micro_hex.png) [ECON 306 - Microeconomic Analysis](http://microS21.classes.ryansafner.com) |
+| ![](https://nostalgic-mcnulty-931307.netlify.app/img/micro_hex.png) [ECON 306 - Microeconomic Analysis](http://microS21.classes.ryansafner.com) |
 | ![](../../static/img/micro_hex.png) [ECON 315 - Economics of the Law](http://lawS21.classes.ryansafner.com) |
 
 ## All Courses Taught
