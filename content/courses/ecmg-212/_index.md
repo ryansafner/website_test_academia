@@ -2,10 +2,10 @@
 date: "2017-09-09T00:00:00Z"
 draft: false
 lastmod: "2017-09-09T00:00:00Z"
-linktitle: An Example Course
+linktitle: ECMG 212 — Statistics for Economics and Business
 menu:
   ecmg-212:
-    name: Overview
+    name: ECMG 212 — Statistics for Economics and Business
     weight: 1
 summary: Introduction to Statistics for Economics & Business majors.
 title: ECMG 212 — Statistics for Economics and Business
