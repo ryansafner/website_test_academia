@@ -14,6 +14,7 @@ publication_types:
 - "2"
 summary: The most robust framework for understanding the evolution and consequences of copyright statutes in the United States is the dynamics of interventionism. I apply the framework of Kirzner’s (1985) perils of regulation to the general revision of copyright law in 1976, and explore its effects on entrepreneurship and discovery processes. Critics of copyright commonly recognize the distortions of rent-seeking, but I emphasize the utility of interventionism to explain the “unsimulated” and the “stifled” discovery processes set in motion by copyright interventions, which use legal processes to allocate resources, and deter future discovery by raising transaction costs.
 tags:
-- copyright, intellectual property
+- copyright
+- intellectual property
 title: "The Perils of Copyright Regulation"
 ---

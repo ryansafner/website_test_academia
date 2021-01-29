@@ -13,6 +13,7 @@ publication_types:
 - "2"
 summary: Public goods are traditionally classified according to an exogenous, technological definition of possessing the characteristics of nonrivalry and nonexcludability. This paper takes a more endogenous approach, where goods are defined by the political purposes that specific actors have revolving these goods, and emerge through political entrepreneurship. I use government sponsorship of basic scientific research as a case study. Proponents argue that scientific research constitutes a public good requiring government assistance, but in fact, government provision of science is endogenous, and better explained by the political entrepreneurship involved in convincing the public of the superiority of political over private provision. 
 tags:
-- public goods, science
+- public goods
+- science
 title: '"Public Good,"" or "Good for the Public?" Political Entrepreneurship and the Public Funding of Scientific Research'
 ---

@@ -14,6 +14,7 @@ publication_types:
 - "2"
 summary: Copyright laws traditionally attempt to incentivize expression and minimize free rider problems through legal restrictions, at the expense of closing off access to cultural history. However, entrepreneurial changes to institutions and the creation of alternative governance structures can allow for spaces that facilitate expression without resorting to the copyright approach. Wikipedia, the free online encyclopedia, stands as a highly visible example of such institutional entrepreneurship, leveraging copyright law *against* its intended purpose. This paper uses the Bloomington School's IAD framework to explain the success of Wikipedia's alternative model of managing a common resource of free encyclopedia articles, and suggests a roadmap for understanding the role of institutional entrepreneurship in crafting alternative governance structures to foster expression.
 tags:
-- copyright, intellectual property
+- copyright
+- intellectual property
 title: "Institutional Entrepreneurship, Wikipedia, and the Opportunity of the Commons"
 ---
