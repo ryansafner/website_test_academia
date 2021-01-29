@@ -4,7 +4,7 @@ draft: false
 lastmod: "2017-09-09T00:00:00Z"
 linktitle: An Example Course
 menu:
-  example:
+  ecmg-212:
     name: Overview
     weight: 1
 summary: Introduction to Statistics for Economics & Business majors.
