@@ -4,7 +4,7 @@ abstract: Economists often model the delicate relationship between production, i
 authors:
 - Santiago Gangotena
 - admin
-date: "2021-1-01T00:00:00Z"
+date: "2021-01-01T00:00:00Z"
 url_pdf: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2626587"
 featured: false
 projects: []

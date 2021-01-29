@@ -3,7 +3,7 @@ abstract: From 1790 to 1891, the United States prevented foreign authors from ob
 
 authors:
 - admin
-date: "2021-1-01T00:00:00Z"
+date: "2021-01-01T00:00:00Z"
 url_pdf: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3775330"
 featured: false
 projects: []
