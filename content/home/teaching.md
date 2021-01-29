@@ -1,7 +1,4 @@
 +++
-# A Recent Publications section created with the Pages widget.
-# This section displays recent blog posts from `content/publication/`.
-
 widget = "custom"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
@@ -16,7 +13,7 @@ subtitle = ""
 
 |     |
 |:----|
-| ![](../../static/img/micro_hex.png) [ECON 306 - Microeconomic Analysis](http://microS21.classes.ryansafner.com) |
+| ![](https://nostalgic-mcnulty-931307.netlify.app/static/img/micro_hex.png) [ECON 306 - Microeconomic Analysis](http://microS21.classes.ryansafner.com) |
 | ![](../../static/img/micro_hex.png) [ECON 315 - Economics of the Law](http://lawS21.classes.ryansafner.com) |
 
 ## All Courses Taught
