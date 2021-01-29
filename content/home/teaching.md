@@ -11,10 +11,10 @@ subtitle = ""
 
 ## Current Courses (Spring 2021)
 
-|     |
-|:----|
-| ![](https://nostalgic-mcnulty-931307.netlify.app/img/micro_hex.png)[ECON 306 - Microeconomic Analysis](http://microS21.classes.ryansafner.com) |
-| ![](https://nostalgic-mcnulty-931307.netlify.app/img/micro_hex.png)[ECON 315 - Economics of the Law](http://lawS21.classes.ryansafner.com) |
+|    |     |
+|:---:|:----|
+| ![](https://nostalgic-mcnulty-931307.netlify.app/img/micro_hex.png) | [ECON 306 - Microeconomic Analysis](http://microS21.classes.ryansafner.com) |
+| ![](https://nostalgic-mcnulty-931307.netlify.app/img/law_hex.png) | [ECON 315 - Economics of the Law](http://lawS21.classes.ryansafner.com) |
 
 ## All Courses Taught
 

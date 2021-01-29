@@ -5,7 +5,7 @@ avatar_image: summer_2019.JPG
 bio:
 btn:
 - label: View CV
-  url: https://sourcethemes.com/academic/docs/install/
+  url: https://raw.githubusercontent.com/ryansafner/CV/master/CV.pdf
 display_education: true
 education:
   courses:
