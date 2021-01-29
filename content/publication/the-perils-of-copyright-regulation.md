@@ -39,6 +39,7 @@ selected = true
 projects = []
 
 # Links (optional).
+doi = "https://doi.org/10.1007/s11138-014-0293-5"
 url_pdf = "http://papers.ssrn.com/abstract=2396874"
 url_custom =[{name="Gated", url="http://link.springer.com/article/10.1007/s11138-014-0293-5"}]
 url_preprint = ""
