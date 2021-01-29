@@ -3,7 +3,7 @@ abstract: Copyright laws traditionally attempt to incentivize expression and min
 
 authors:
 - admin
-date: "2017-12-01T00:00:00Z"
+date: "2016-12-01T00:00:00Z"
 doi: "https://doi.org/10.1017/S1744137416000096"
 url_pdf: "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2564230"
 featured: true
