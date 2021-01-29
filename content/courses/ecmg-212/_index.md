@@ -14,6 +14,8 @@ type: docs
 weight: 1
 ---
 
+# Overview
+
 [[Spring 2017 Syllabus](https://www.dropbox.com/s/26dxgos34p5cfhs/ECON_324_Syllabus_Safner.pdf?dl=0)]
 
 > “There are three kinds of lies: lies, damned lies, and statistics.” — Benjamin Disraeli, British P.M.
@@ -27,6 +29,8 @@ This course is designed as an introduction to data and how it is collected, desc
 I have three goals for everyone taking this course: (1) to understand and evaluate statistical and empirical claims; (2) to understand research design and hypothesis testing; (3) to gain experience working with, interpreting, and communicating real data. I am less concerned with forcing you to memorize and recite proofs of statistical estimator properties, and more concerned with the development of your intuitions and the ability to think critically as a businessperson, a social scientist, and a democratic citizen—although this will require you to demonstrate proficiency with some statistical and mathematical tools.
 
 To these ends, in addition to lectures about statistical methods, you will be working on problem sets that use theory, as well as using Microsoft Excel to complete problem sets using data, and write a brief empirical paper using data. By the end, you should feel comfortable working with data and understanding the empirical claims of others. The best training is for you to learn by doing.
+
+# Materials
 
 | Lesson | Slides | Excel Templates|
 |---|---|---|
