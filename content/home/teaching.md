@@ -22,11 +22,11 @@ subtitle = ""
 
 |    |     |
 |:---:|:----|
-|     | [ECMG 212 - Statistics for Economics and Business](courses/ECMG212) |
-|     | [ECON 205 - Principles of Macroeconomics](courses/ECON205) |
-|     | [ECON 304 - International Political Economy](courses/ECON304) |
+|     | [ECMG 212 - Statistics for Economics and Business](courses/ECMG-212) |
+|     | [ECON 205 - Principles of Macroeconomics](courses/ECON-205) |
+|     | [ECON 304 - International Political Economy](courses/ECON-304) |
 | ![](https://nostalgic-mcnulty-931307.netlify.app/img/micro_hex.png) | [ECON 306 - Microeconomic Analysis](http://microF20.classes.ryansafner.com) |
-|     | [ECON 316 - Game Theory](courses/ECON316) |
+|     | [ECON 316 - Game Theory](courses/ECON-316) |
 | ![](https://nostalgic-mcnulty-931307.netlify.app/img/dev_hex.png) | [ECON 317 - Economics of Development](https://devf19.classes.ryansafner.com) |
 | ![](https://nostalgic-mcnulty-931307.netlify.app/img/trade_hex.png) | [ECON 324 - International Trade](http://tradeF20.classes.ryansafner.com) |
 | ![](https://nostalgic-mcnulty-931307.netlify.app/img/io_hex.png) | [ECON 326 - Industrial Organization](https://ios20.classes.ryansafner.com) |
